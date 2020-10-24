@@ -1,4 +1,5 @@
 # Fragrance Recommender
+![](avg_rmse.png)
 
 ## Table of Contents
 1. Data Mining
